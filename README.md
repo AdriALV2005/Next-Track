@@ -1,11 +1,10 @@
 
-# 🎯 Adri Tasks - Aplicación de Gestión de Tareas
+# 🎯  Tasks - Aplicación de Gestión de Tareas
 
   
 
-**Adri Tasks** es una poderosa aplicación de gestión de tareas construida con Next.js, diseñada para ayudarte a organizar y priorizar tu trabajo de manera eficiente. Con una interfaz moderna y fácil de usar, ¡mejora tu productividad ahora! 🚀
+**Tasks** es una poderosa aplicación de gestión de tareas construida con Next.js, diseñada para ayudarte a organizar y priorizar tu trabajo de manera eficiente. Con una interfaz moderna y fácil de usar, ¡mejora tu productividad ahora! 🚀
 
-  
 
 🌐 **[Aplicación Desplegada Aquí](https://next-track-three.vercel.app/)**
 
@@ -22,7 +21,7 @@
 ¡A continuación puedes ver una vista previa de la aplicación! No olvides añadir tus propias imágenes aquí para mostrar cómo luce:
 
   
-<img src="https://i.ibb.co/NKcspXz/Captura-de-pantalla-2024-10-23-160131.png" alt="Adri Tasks" style="width: 100%; height: auto;" />
+<img src="https://i.ibb.co/NKcspXz/Captura-de-pantalla-2024-10-23-160131.png" alt=" Tasks" style="width: 100%; height: auto;" />
 
   
 
