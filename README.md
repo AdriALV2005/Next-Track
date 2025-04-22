@@ -5,6 +5,7 @@
 
 **Tasks** es una poderosa aplicación de gestión de tareas construida con Next.js, diseñada para ayudarte a organizar y priorizar tu trabajo de manera eficiente. Con una interfaz moderna y fácil de usar, ¡mejora tu productividad ahora! 🚀
 
+**En colaboración con [Bryan Coronado](https://github.com/CoronadoBryan)** 🤝
 
 🌐 **[Aplicación Desplegada Aquí](https://next-track-three.vercel.app/)**
 
